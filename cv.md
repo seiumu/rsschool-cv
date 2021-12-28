@@ -1,6 +1,8 @@
 ##### Curriculum Vitae
 ## Serghei Musaji
 
+![photo](https://blogs.unb.ca/ideas-with-impact/_media/images/serghei_musaji.jpg)
+
 [linkedin](www.linkedin.com/in/smusaji) | [github](https://github.com/seiumu)
 
 # Education
