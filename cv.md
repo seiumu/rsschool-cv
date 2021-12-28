@@ -22,3 +22,24 @@
 |Instructor|Education|IE Business School/University|2014-2018|
 |Chief Development Officer|Agritech|Verum|2010-2011
 |Assistant Patent Attorney|Paralegal, IP|TreiG|2008-2010|
+
+# Skills
+
+|Skill|Level|
+|---|---|
+|Graphic Design (Photoshop, Illustrator)|Advanced|
+|Front-End Development(HTML5, CSS3, Javascript)|Intermediate|
+|Ux/Ui (Figma)|Intermediate|
+|Python|Intermediate|
+|SQL(MySQL/Postgres)|Intermediate|
+|Machine Learning|Intermediate|
+
+# Languages
+
+|Language|Level|
+|---|---|
+|Russian|Navite|
+|Romanian|Native|
+|English|Fluent|
+|Spanish|Fluent|
+|French|Beginner|
