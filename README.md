@@ -1,2 +1,1 @@
-# rsschool-cv
-rs school
+https://seiumu.github.io/rsschool-cv/cv
