@@ -64,6 +64,16 @@ tr:nth-of-type(even) {
 }
 
 /*--------------------------------------------*/
+/*Styling second-level header*/
+/*--------------------------------------------*/
+
+h2 {
+  display:flex;
+  align-self:start;
+  margin-left:15%;
+}
+
+/*--------------------------------------------*/
 /*Styling lists*/
 /*--------------------------------------------*/
 
@@ -157,23 +167,24 @@ li {
 /*--------------------------------------------*/
 
 .nav-container {
+  z-index: 3;
+  height: 40px;
+  margin-bottom: 20px;
   position: sticky;
   top: 40px;
-  z-index: 3;
 }
 
 .nav-items {
   display: flex;
+  background: purple;
+  width: 101%;
+  position:relative;
+  left:-1%;
   flex-direction: row;
   align-items: center;
-  justify-content: center;
-  height: 40px;
-  width: 106%;
-  position: relative;
-  left: -5%;
-  background: purple;
-  border: 1px solid rgba(255, 52, 52, 0.05);
+  justify-content: center;  
   box-sizing: border-box;
+  margin:0 auto;
 }
 
 .nav-item {
@@ -195,7 +206,9 @@ li {
 .content {
   display: flex;
   flex-direction: column;
-  padding-left: 20%;
+  justify-content: center;
+  align-items:center;
+  margin:0px auto;
 }
 
 .line {
@@ -209,8 +222,8 @@ li {
 .block-name {
   text-align: center;
   position: relative;
-  left: 27%;
-  top:-0.5em;
+  margin:0px auto;
+  top:-0.3em;
   width: 200px;
   background-color: rgb(255, 255, 255);
   padding: 20px, 50px;
@@ -299,8 +312,10 @@ figcaption {
   text-align: center;
 }
 
-#soc-text-link {
+.soc-text-link {
   text-decoration: none;
+  text-align:center;
+  color:purple;
 }
 
 /*styling contact form*/
@@ -332,7 +347,10 @@ figcaption {
 /*Styling submit block*/
 
 .submit {
-  margin-top: 2em;
+  margin:2em auto;
+  display:flex;
+  flex-direction: row;
+  justify-content:center;
 }
 
 .submit-button {
@@ -391,6 +409,7 @@ figcaption {
 #copyright {
   box-align: right;
   width: 100%;
+  margin-left:15%;
 }
 #Rsschool {
   margin-right: 3em;
