@@ -1,3 +1,4 @@
+/*2022-01-04*/
 /*--------------------------------------------*/
 /* Global settings */
 /*--------------------------------------------*/
@@ -306,10 +307,6 @@ li {
   height: 50%;
   width: auto;
   filter: invert(80%);
-}
-
-figcaption {
-  text-align: center;
 }
 
 .soc-text-link {
